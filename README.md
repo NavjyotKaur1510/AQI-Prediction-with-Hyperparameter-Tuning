@@ -19,5 +19,5 @@ This project focuses on predicting Air Quality Index (AQI) using a deep learning
     
 + **Results**
   
-Achieved reliable AQI predictions with mean absolute error ranging from 1.5 to 2.0. Optimal hyperparameter combinations significantly improved model accuracy and stability.
+Achieved reliable AQI predictions with mean absolute error below 1.5 Optimal hyperparameter combinations significantly improved model accuracy and stability.
 
